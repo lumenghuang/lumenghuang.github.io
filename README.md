@@ -1,1 +1,1 @@
-google.com, pub-5660992140088036, DIRECT, f08c47fec0942fa0
+Feel free to check out any of my projects that catch your interest!
