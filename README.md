@@ -1,2 +1,1 @@
-<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5660992140088036"
-     crossorigin="anonymous"></script></head>
+google.com, pub-5660992140088036, DIRECT, f08c47fec0942fa0
